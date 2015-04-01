@@ -1,0 +1,6 @@
+This is file "c"
+
+It has 2 entries
+
+1 (uno)
+2 (dos)
