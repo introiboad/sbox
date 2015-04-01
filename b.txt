@@ -1,6 +1,6 @@
 This is file "b"
 
-It has 3 entries
+It has *3* entries
 
 1 (eins)
 2 (zwei)
