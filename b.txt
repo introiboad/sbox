@@ -1,4 +1,4 @@
-This is file b
+This is file "b"
 
 It has 2 entries
 
