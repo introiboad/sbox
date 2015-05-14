@@ -2,8 +2,8 @@ This is file "b"
 
 It has *3* entries
 
-1 (eins)
-2 (zwei)
-3 (drei)
-4 (vier)
-5 (fuenf)
+1  (eins)
+2  (zwei)
+3  (drei)
+4  (vier)
+5  (fuenf)
